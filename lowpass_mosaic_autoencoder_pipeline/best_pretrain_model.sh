@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=<my_GPU_id> python3 dsae_lowpass.py --input <my_input_file> --model_id <model_id> --pretrain_model_dir <pretrain_dir> --pretrain_pth <pretrain_pth> --pretrain_params <pretrain_params> <hp>
